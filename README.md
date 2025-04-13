@@ -22,36 +22,33 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <br><span style="font-size:12px;">C++</span>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <br><span style="font-size:12px;">CSS</span>
-  </a>&nbsp;&nbsp;
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <br><span style="font-size:12px;">HTML</span>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <br><span style="font-size:12px;">JavaScript</span>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
-    <br><span style="font-size:12px;">SQL Server</span>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <br><span style="font-size:12px;">Python</span>
-  </a>
+<p align="center">
+  <div style="display: flex; gap: 30px; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+      <div>C++</div>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+      <div>CSS</div>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+      <div>HTML</div>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+      <div>JavaScript</div>
+    </div>
+    <div align="center">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
+      <div>SQL Server</div>
+    </div>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+      <div>Python</div>
+    </div>
+  </div>
 </p>
-
 
