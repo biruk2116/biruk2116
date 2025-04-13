@@ -15,7 +15,7 @@
 - 📫 How to reach me **brukbelay61@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
- <table>
+<table>
   <tr>
     <td align="center">
       <a href="https://fb.com/biruk belay" target="_blank">
@@ -37,13 +37,13 @@
     </td>
     <td align="center">
       <a href="https://t.me/your_username" target="_blank">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Telegram_black.svg" alt="Telegram" width="40" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="30" />
       </a><br/>
       <sub><b>Telegram</b></sub>
     </td>
     <td align="center">
       <a href="https://www.tiktok.com/@your_username" target="_blank">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/TikTok_black.svg" alt="TikTok" width="40" height="30" />
+        <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="40" height="30" />
       </a><br/>
       <sub><b>TikTok</b></sub>
     </td>
@@ -55,6 +55,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <h2 align="left">Languages and Tools:</h2>
