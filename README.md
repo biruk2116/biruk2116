@@ -15,47 +15,43 @@
 - 📫 How to reach me **brukbelay61@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://fb.com/biruk belay" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
-      </a><br/>
-      <sub><b>Facebook</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/bu_ye21" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-      </a><br/>
-      <sub><b>Instagram</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" />
-      </a><br/>
-      <sub><b>YouTube</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://t.me/your_username" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="30" />
-      </a><br/>
-      <sub><b>Telegram</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://www.tiktok.com/@your_username" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="40" height="30" />
-      </a><br/>
-      <sub><b>TikTok</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/your_github_username" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30" />
-      </a><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://fb.com/biruk belay" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <br/>
+  <sub><b>Facebook</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/bu_ye21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <br/>
+  <sub><b>Instagram</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+  <br/>
+  <sub><b>YouTube</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
+  </a>
+  <br/>
+  <sub><b>Telegram</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg" alt="TikTok" width="40" height="40"/>
+  </a>
+  <br/>
+  <sub><b>TikTok</b></sub>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/your_github_username" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <br/>
+  <sub><b>GitHub</b></sub>
+</p>
 
 
 <h2 align="left">Languages and Tools:</h2>
