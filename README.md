@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biruk Belay</h1>
 
-<p align="center">
-  <img src="https://https://www.bing.com/images/search?view=detailV2&ccid=eNOpGqr6&id=0211FCF40EC8225540A0B6FD6D51113FA4681B14&thid=OIP.eNOpGqr62C5iq2B1cAbqLwHaEp&mediaurl=https%3a%2f%2fimg.freepik.com%2fpremium-photo%2fperson-using-laptop-technology-mobility-concept_1077802-29220.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.78d3a91aaafad82e62ab60757006ea2f%3frik%3dFBtopD8RUW39tg%26pid%3dImgRaw%26r%3d0&exph=393&expw=626&q=best+technology+persons+photo&simid=608053424706951077&FORM=IRPRST&ck=E5D5E73F9B720B6C73AB4C46619E55F8&selectedIndex=49&itb=0/image.png" width="300"/>
-</p>
+ ![Tech Person](https://img.freepik.com/premium-photo/person-using-laptop-technology-mobility-concept_1077802-29220.jpg)
+
 
  
 <h2 align="center">A passionate Frontend Web Developer</h2>
