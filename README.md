@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="700" alt="Lofi Boy Studying"/>
+  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="1000" alt="Lofi Boy Studying"/>
 </p>
 
  
