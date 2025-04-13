@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biruk Belay</h1>
 
-![image](https://github.com/user-attachments/assets/446d8674-0605-4c71-a0ac-5769acd71bc6)"
-<h3 align="center">A passionate Frontend web developer</h3>
+ 
+<h2 align="center">A passionate Frontend Web Developer</h2>
 
 - 🌱 I’m currently learning **HTML**
 
