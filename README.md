@@ -16,7 +16,6 @@
 
 <h2 align="left">Connect with me:</h2>
 
-
 <p align="center">
   <a href="https://fb.com/biruk belay" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
@@ -33,21 +32,13 @@
   </a>
   <sub><b>YouTube</b></sub>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_logo.svg" alt="Telegram" width="40" height="40"/>
-  </a>
-  <sub><b>Telegram</b></sub>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.svg" alt="TikTok" width="40" height="40"/>
-  </a>
-  <sub><b>TikTok</b></sub>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/your_github_username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <sub><b>GitHub</b></sub>
 </p>
+
+
 
 
 <h2 align="left">Languages and Tools:</h2>
