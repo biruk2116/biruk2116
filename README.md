@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Biruk Belay</h1>
 
-
+<p align="center">
 ![image](https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg)
-
+</p>
 
  
 <h2 align="center">A passionate Frontend Web Developer</h2>
