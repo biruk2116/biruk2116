@@ -17,6 +17,7 @@
 <h2 align="left">Connect with me:</h2>
 
 
+
 <table>
   <tr>
     <td align="center">
@@ -36,18 +37,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" />
       </a><br/>
       <sub><b>YouTube</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://t.me/your_username" target="_blank">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Telegram_black.svg" alt="Telegram" width="40" height="30" />
-      </a><br/>
-      <sub><b>Telegram</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://www.tiktok.com/@your_username" target="_blank">
-        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/TikTok_black.svg" alt="TikTok" width="40" height="30" />
-      </a><br/>
-      <sub><b>TikTok</b></sub>
     </td>
     <td align="center">
       <a href="https://github.com/your_github_username" target="_blank">
