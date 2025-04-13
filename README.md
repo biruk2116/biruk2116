@@ -16,31 +16,48 @@
 
 <h2 align="left">Connect with me:</h2>
 
-<p align="center">
-  <a href="https://fb.com/biruk belay" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
-    <br/>
-    <sub><b>Facebook</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/bu_ye21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-    <br/>
-    <sub><b>Instagram</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
-    <br/>
-    <sub><b>YouTube</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/your_github_username" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-    <br/>
-    <sub><b>GitHub</b></sub>
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://fb.com/biruk belay" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
+      </a><br/>
+      <sub><b>Facebook</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/bu_ye21" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
+      </a><br/>
+      <sub><b>Instagram</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" />
+      </a><br/>
+      <sub><b>YouTube</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://t.me/your_username" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Telegram_black.svg" alt="Telegram" width="40" height="30" />
+      </a><br/>
+      <sub><b>Telegram</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.tiktok.com/@your_username" target="_blank">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/TikTok_black.svg" alt="TikTok" width="40" height="30" />
+      </a><br/>
+      <sub><b>TikTok</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/your_github_username" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30" />
+      </a><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
