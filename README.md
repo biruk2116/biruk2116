@@ -71,10 +71,6 @@
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/><br/>
-      <sub><b>SQL Server</b></sub>
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
       <sub><b>Python</b></sub>
     </td>
