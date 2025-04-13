@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biruk Belay</h1>
 
- ![Tech Person](https://img.freepik.com/premium-photo/person-using-laptop-technology-mobility-concept_1077802-29220.jpg)
+
+![image](https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg)
 
 
  
