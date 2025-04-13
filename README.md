@@ -19,23 +19,27 @@
 <p align="center">
   <a href="https://fb.com/biruk belay" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+    <br/>
+    <sub><b>Facebook</b></sub>
   </a>
-  <sub><b>Facebook</b></sub>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/bu_ye21" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <br/>
+    <sub><b>Instagram</b></sub>
   </a>
-  <sub><b>Instagram</b></sub>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
+    <br/>
+    <sub><b>YouTube</b></sub>
   </a>
-  <sub><b>YouTube</b></sub>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/your_github_username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+    <br/>
+    <sub><b>GitHub</b></sub>
   </a>
-  <sub><b>GitHub</b></sub>
 </p>
 
 
