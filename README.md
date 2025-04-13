@@ -39,7 +39,7 @@
       <sub><b>YouTube</b></sub>
     </td>
     <td align="center">
-      <a href="https://github.com/your_github_username" target="_blank">
+      <a href="https://github.com/biruk2116" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30" />
       </a><br/>
       <sub><b>GitHub</b></sub>
