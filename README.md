@@ -1,7 +1,8 @@
 
-<p align="center">
-  <img src="https://yourdomain.com/animated-typing.gif" alt="Hi 👋, I'm Biruk Belay" />
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay!" alt="Typing SVG" />
+</h1>
 
 
 
