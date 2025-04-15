@@ -39,9 +39,7 @@
 
 
  
-<h2 align="center">A passionate Frontend Web Developer</h2>
 
-- 🌱 I’m currently learning **HTML,CSS,Java script,react**
 
 - 📫 How to reach me **brukbelay61@gmail.com**
 
