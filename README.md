@@ -1,8 +1,6 @@
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay!" alt="Typing SVG" />
-</h1>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay!;Computer+Science+Student+from+Ethiopia;Debre+Birhan+University+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -18,43 +16,18 @@
 - 💬 Ask me about anything related to HTML, CSS, JS, or projects I’m building
 - ⚡ Fun Fact: I enjoy learning by building cool, real-world projects!
 
----
 
-### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
 
----
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-username) *(replace with your link)*
-- 📧 biruk.belay@example.com *(use your real email)*
-- 🌍 [Portfolio Website](https://your-portfolio.com) *(optional)*
-
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
 
-> 🚀 "Keep learning. Keep building. Great things take time."
-
----
-
-Would you like me to fill in your **actual GitHub username**, LinkedIn, and email into this template? I can give you a final version ready to copy & paste!
 
 
 
