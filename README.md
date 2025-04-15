@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Biruk Belay</h1>
+
+<p align="center">
+  <img src="https://yourdomain.com/animated-typing.gif" alt="Hi 👋, I'm Biruk Belay" />
+</p>
 
 
 
