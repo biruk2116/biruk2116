@@ -6,7 +6,9 @@
 </h1>
 
 
----
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="1000" alt="Lofi Boy Studying"/>
+</p>
 
 ### 👨‍🎓 About Me
 
@@ -33,9 +35,7 @@
 
 
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="1000" alt="Lofi Boy Studying"/>
-</p>
+
 
  
 <h2 align="center">A passionate Frontend Web Developer</h2>
