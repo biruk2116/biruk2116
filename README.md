@@ -1,111 +1,121 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=30&color=F7971E&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay!;A+passionate+Frontend+Web+Developer;Computer+Science+Student+from+Ethiopia;Debre+Birhan+University+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=40&color=00C2FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋,+I'm+Biruk+Belay;MERN+Stack+Web+Developer;Computer+Science+Student;Building+Modern+Web+Applications;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
-
-
-
-
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="1000" alt="Lofi Boy Studying"/>
+  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="1000" alt="Developer studying"/>
 </p>
-
-### 👨‍🎓 About Me
-
-- 🎓 I’m a **Computer Science student** at **Debre Birhan University**, Ethiopia  
-- 🌱 Currently learning **JavaScript**, **Frontend Development**, and **Git/GitHub**
-- 🧠 Interested in **Web Development**, **Problem Solving**, and **Open Source**
-- 💬 Ask me about anything related to HTML, CSS, JS, or projects I’m building
-- ⚡ Fun Fact: I enjoy learning by building cool, real-world projects!
 
 ---
 
+## 👨‍💻 About Me
 
+- 🎓 **Computer Science Student** at **Debre Birhan University**, Ethiopia  
+- 💻 **MERN Stack Web Developer** (MongoDB, Express, React, Node.js)  
+- 🌱 Currently improving **React, Backend APIs, and Full-Stack Development**
+- 🧠 Interested in **Web Development, AI basics, and Problem Solving**
+- 🚀 Love building **real-world, scalable web applications**
+- ⚡ Fun fact: I learn best by **building projects**
 
+---
 
+## 🛠️ Tech Stack
 
-### 📊 GitHub Stats
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Responsive Web Design  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- RESTful APIs  
+
+### 🗄️ Database
+- MongoDB  
+- Basic SQL  
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Postman  
+- npm  
+
+---
+
+## 🚀 MERN Stack Technologies
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
+---
 
-
-
-
-
-
- 
-
-
-- 📫 How to reach me **brukbelay61@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
-
-
+## 🤝 Connect With Me
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://fb.com/biruk belay" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
-      </a><br/>
-      <sub><b>Facebook</b></sub>
+      <a href="https://facebook.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/><br/>
+        <sub><b>Facebook</b></sub>
+      </a>
     </td>
     <td align="center">
       <a href="https://instagram.com/bu_ye21" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-      </a><br/>
-      <sub><b>Instagram</b></sub>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/><br/>
+        <sub><b>Instagram</b></sub>
+      </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" />
-      </a><br/>
-      <sub><b>YouTube</b></sub>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/><br/>
+        <sub><b>YouTube</b></sub>
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/biruk2116" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30" />
-      </a><br/>
-      <sub><b>GitHub</b></sub>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/><br/>
+        <sub><b>GitHub</b></sub>
+      </a>
     </td>
   </tr>
 </table>
 
+---
 
+## 📫 Contact
+📧 **Email:** `birukbelay528@gmail.com`
 
+---
 
-
-<h2 align="left">🚀 Modern Tech Stack</h2>
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/><br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
-
-
-
+⭐ *Feel free to explore my repositories and connect with me.  
+I’m always open to collaboration and learning new technologies!*
