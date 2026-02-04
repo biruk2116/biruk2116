@@ -80,29 +80,31 @@
 
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠️ Languages & Tools</h2>
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>
       <sub><b>C++</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/><br/>
-      <sub><b>CSS</b></sub>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/><br/>
-      <sub><b>HTML</b></sub>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>
       <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center">
+    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
       <sub><b>Python</b></sub>
     </td>
   </tr>
 </table>
+
 
