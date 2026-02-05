@@ -1,111 +1,69 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=30&color=F7971E&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay!;A+passionate+Frontend+Web+Developer;Computer+Science+Student+from+Ethiopia;Debre+Birhan+University+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=40&color=F7971E&center=true&vCenter=true&width=1000&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay;Frontend+Web+Developer;Computer+Science+Student+%F0%9F%8E%93;Debre+Birhan+University+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-
-
-
-
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="1000" alt="Lofi Boy Studying"/>
+  <img src="https://img.freepik.com/premium-photo/lofi-girl-style-featuring-boy-studying-listening-music_940839-125.jpg" width="900" alt="Lofi Developer"/>
 </p>
-
-### 👨‍🎓 About Me
-
-- 🎓 I’m a **Computer Science student** at **Debre Birhan University**, Ethiopia  
-- 🌱 Currently learning **JavaScript**, **Frontend Development**, and **Git/GitHub**
-- 🧠 Interested in **Web Development**, **Problem Solving**, and **Open Source**
-- 💬 Ask me about anything related to HTML, CSS, JS, or projects I’m building
-- ⚡ Fun Fact: I enjoy learning by building cool, real-world projects!
 
 ---
 
+## 👨‍💻 About Me
 
+🎓 **Computer Science Student** at **Debre Birhan University**, Ethiopia  
+🌱 Currently learning **JavaScript**, **Modern Frontend Development**, and **Git/GitHub**  
+💡 Passionate about **Web Development**, **Problem Solving**, and **Open Source**  
+🛠 Love building **real-world projects** to learn faster  
+⚡ Fun fact: I learn best by **building & experimenting**
 
+---
 
-
-### 📊 GitHub Stats
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+---
 
+## 📫 Contact Me
 
+📧 **Email:** brukbelay61@gmail.com  
 
- 
+---
 
+## 🌐 Connect With Me
 
-- 📫 How to reach me **brukbelay61@gmail.com**
+<p align="center">
+  <a href="https://facebook.com/biruk belay" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/bu_ye21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://github.com/biruk2116" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<h2 align="left">Connect with me:</h2>
+---
 
+## ✨ Quote I Believe In
 
+> *"Learning never exhausts the mind — it empowers it."*
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://fb.com/biruk belay" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
-      </a><br/>
-      <sub><b>Facebook</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/bu_ye21" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-      </a><br/>
-      <sub><b>Instagram</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" />
-      </a><br/>
-      <sub><b>YouTube</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/biruk2116" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30" />
-      </a><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-  </tr>
-</table>
+---
 
-
-
-
-
-<h2 align="left">🚀 Modern Tech Stack</h2>
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/><br/>
-      <sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
-
-
-
+⭐ **If you like my work, feel free to star my repositories and connect with me!**
