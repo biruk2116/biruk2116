@@ -1,14 +1,15 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=40&color=F7971E&center=true&vCenter=true&width=1000&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Biruk+Belay;Frontend+&+Fullstack+MERN+Developer;Computer+Science+Student+%F0%9F%8E%93;Debre+Birhan+University+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <!-- Profile Image as Circle -->
-  <img src="https://raw.githubusercontent.com/biruk2116/biruk2116/main/a2d3bd43-23f0-42b2-8a08-bd91684f065a.jpg" 
+  <!-- Profile Image -->
+  <img src="https://raw.githubusercontent.com/biruk2116/biruk2116/main/495fa81b-cdfc-457c-97aa-16718e96029c.jpg" 
        alt="Biruk Belay" width="180" 
-       style="border-radius:50%; border:4px solid #4CAF50;" />
+       style="border-radius:50%; border: 4px solid #4CAF50;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Biruk Belay</h1>
-<h3 align="center">Frontend & Fullstack (MERN) Developer | Modern Web Enthusiast</h3>
-
----
+<h3 align="center">Frontend & Fullstack (MERN) Developer | Passionate About Clean Code & Modern Web</h3>
 
 ## 🛠️ Skills
 
