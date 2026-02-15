@@ -1,40 +1,27 @@
 <p align="center">
-  <!-- Profile Image -->
+  <!-- Profile Image as Circle -->
   <img src="https://raw.githubusercontent.com/biruk2116/biruk2116/main/a2d3bd43-23f0-42b2-8a08-bd91684f065a.jpg" 
        alt="Biruk Belay" width="180" 
-       style="border-radius:50%; border: 3px solid #4CAF50; box-shadow: 0 8px 15px rgba(0,0,0,0.3);" />
+       style="border-radius:50%; border:4px solid #4CAF50;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Biruk Belay</h1>
-<h3 align="center">Frontend & Fullstack (MERN) Developer | Passionate About Clean Code & Modern Web</h3>
+<h3 align="center">Frontend & Fullstack (MERN) Developer | Modern Web Enthusiast</h3>
 
 ---
 
 ## 🛠️ Skills
 
 <p align="center">
-  <strong>Frontend & Fullstack (MERN)</strong>
+  <!-- Animated Skill Bars using SVG badges -->
+  <img src="https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<div align="center" style="max-width:600px;">
-  <p>HTML</p>
-  <img src="https://progress-bar.dev/95/?title=HTML&color=FF5733&width=600" alt="HTML Progress" />
-
-  <p>CSS / TailwindCSS</p>
-  <img src="https://progress-bar.dev/90/?title=CSS&color=1572B6&width=600" alt="CSS Progress" />
-
-  <p>JavaScript</p>
-  <img src="https://progress-bar.dev/85/?title=JavaScript&color=F7DF1E&width=600" alt="JS Progress" />
-
-  <p>React.js</p>
-  <img src="https://progress-bar.dev/90/?title=React&color=61DAFB&width=600" alt="React Progress" />
-
-  <p>Node.js / Express.js</p>
-  <img src="https://progress-bar.dev/85/?title=Node&color=339933&width=600" alt="Node Progress" />
-
-  <p>MongoDB</p>
-  <img src="https://progress-bar.dev/80/?title=MongoDB&color=47A248&width=600" alt="MongoDB Progress" />
-</div>
 
 ---
 
