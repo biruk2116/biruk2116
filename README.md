@@ -70,14 +70,33 @@ Beyond coding, I value **continuous learning, collaboration, and problem-solving
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" width="48%"/>
+  <!-- GitHub Overall Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
+    width="48%"
+  />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biruk2116&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=biruk2116&theme=tokyonight&row=1&column=6" width="48%"/>
+  <!-- Profile Summary / GitHub Grade -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biruk2116&theme=tokyonight"
+  />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=biruk2116&theme=tokyonight"
+    width="48%"
+  />
+  
+ 
 
 ---
 
