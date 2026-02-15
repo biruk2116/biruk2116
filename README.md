@@ -58,14 +58,19 @@
   <!-- GitHub Streak (current + longest) -->
   <img src="https://streak-stats.demolab.com/?user=biruk2116&theme=tokyonight" alt="GitHub Streak Stats" />
 
-  <!-- GitHub Professional Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=biruk2116&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
+
 
 <p align="center">
-  <!-- Optional Popular Badge -->
-  ![Visitor Count](https://komarev.com/ghpvc/?username=biruk2116&color=brightgreen)
+  <!-- Community Trophy Widget (more reliable) -->
+  <a href="https://github.com/biruk2116">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=biruk2116&theme=tokyonight&column=-1" alt="GitHub Trophy Showcase" />
+  </a>
+
+  <!-- Profile Views -->
+  <br><br>
+  ![Profile Views](https://komarev.com/ghpvc/?username=biruk2116&style=flat-square&color=blue&label=Profile+Views)
 </p>
+
 
 
 
