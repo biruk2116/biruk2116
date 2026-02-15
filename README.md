@@ -82,6 +82,22 @@ I am always eager to **learn, collaborate, and grow** with like-minded developer
   <!-- GitHub Streak (current + longest) -->
   <img src="https://streak-stats.demolab.com/?user=biruk2116&theme=tokyonight" alt="GitHub Streak Stats" />
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biruk2116&theme=tokyonight" width="98%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biruk2116&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=biruk2116&theme=tokyonight&row=1&column=6" width="48%"/>
+</p>
 ## 📫 Connect With Me
 
 **📍 Location:** Debre Birhan, Ethiopia  
