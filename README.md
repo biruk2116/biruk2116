@@ -44,48 +44,29 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Overall Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"
-    width="48%"
-  />
+  <!-- Main GitHub Stats (fast, reliable alternative) -->
+  <img src="https://readme-stats-fast.vercel.app/api?username=biruk2116&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+
   <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight"
-    width="48%"
-  />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Profile Summary / GitHub Grade -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biruk2116&theme=tokyonight"
-  />
+  <!-- GitHub Streak (current + longest) -->
+  <img src="https://streak-stats.demolab.com/?user=biruk2116&theme=tokyonight" alt="GitHub Streak Stats" />
+
+  <!-- GitHub Professional Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=biruk2116&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=biruk2116&theme=tokyonight"
-    width="48%"
-  />
-  <!-- GitHub Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=biruk2116&theme=tokyonight&no-frame=true&row=1&column=6"
-    width="48%"
-  />
+  <!-- Optional Popular Badge -->
+  ![Visitor Count](https://komarev.com/ghpvc/?username=biruk2116&color=brightgreen)
 </p>
 
-<p align="center">
-  <!-- Profile Views -->
-  <img
-    src="https://komarev.com/ghpvc/?username=biruk2116&label=Profile%20Views&color=blue&style=flat"
-  />
-</p>
 
 
 ---
