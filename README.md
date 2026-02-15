@@ -60,19 +60,6 @@
 
 
 
-<p align="center">
-  <!-- Community Trophy Widget (more reliable) -->
-  <a href="https://github.com/biruk2116">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=biruk2116&theme=tokyonight&column=-1" alt="GitHub Trophy Showcase" />
-  </a>
-
-  <!-- Profile Views -->
-  <br><br>
-  ![Profile Views](https://komarev.com/ghpvc/?username=biruk2116&style=flat-square&color=blue&label=Profile+Views)
-</p>
-
-
-
 
 ---
 
