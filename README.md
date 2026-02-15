@@ -4,9 +4,9 @@
 
 <p align="center">
   <!-- Profile Image -->
-  <img src="https://raw.githubusercontent.com/biruk2116/biruk2116/main/495fa81b-cdfc-457c-97aa-16718e96029c.jpg" 
+  <img src="https://raw.githubusercontent.com/biruk2116/biruk2116/main/profile.jpg" 
        alt="Biruk Belay" width="180" 
-       style="border-radius:50%; border: 4px solid #4CAF50;" />
+       style="border-radius:50%; border:4px solid #4CAF50;" />
 </p>
 
 <h3 align="center">Frontend & Fullstack (MERN) Developer | Passionate About Clean Code & Modern Web</h3>
@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <!-- Animated Skill Bars using Shields.io -->
+  <!-- Shields.io badges simulate animated skill bars -->
   <img src="https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
