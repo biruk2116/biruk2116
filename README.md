@@ -29,9 +29,18 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <!-- GitHub Grade / Rank -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biruk2116&theme=tokyonight" />
+</p>
+
 
 
 ---
