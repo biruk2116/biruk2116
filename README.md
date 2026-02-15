@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <!-- Skill Badges -->
+  <!-- Animated Skill Bars using Shields.io -->
   <img src="https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,17 +32,16 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://readme-stats-fast.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false" width="48%" />
   <!-- Top Languages -->
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Community Trophy Widget -->
+  <!-- GitHub Trophy Widget -->
   <a href="https://github.com/biruk2116">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=biruk2116&theme=tokyonight&column=-1" alt="GitHub Trophy Showcase" />
   </a>
-
   <br><br>
   <!-- Profile Views -->
   ![Profile Views](https://komarev.com/ghpvc/?username=biruk2116&style=flat-square&color=blue&label=Profile+Views)
@@ -64,19 +63,19 @@
 
 <p align="center">
   <a href="https://facebook.com/biruk belay" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/bu_ye21" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/channel/Buratechtube" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/biruk2116" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/birukbelay" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
