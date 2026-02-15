@@ -1,109 +1,113 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=35&color=F7971E&center=true&vCenter=true&width=1200&height=120&lines=Hi+👋,+I'm+Biruk+Belay;Frontend+%26+Fullstack+MERN+Developer;Computer+Science+Student+🎓;Debre+Birhan+University;Welcome+to+my+GitHub+Profile!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=40&color=F7971E&center=true&vCenter=true&width=1200&height=140&lines=Hi+👋,+I'm+Biruk+Belay;Computer+Science+Student+at+Debre+Birhan+University;Frontend+%26+Fullstack+MERN+Developer;I+Build+Clean,+Modern+%26+Scalable+Web+Applications"
     alt="Typing SVG"
   />
 </h1>
 
 ---
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/biruk2116/biruk2116/main/profile.jpg"
-    width="260"
-    alt="Biruk Belay"
-  />
-</p>
+## 👨‍💻 About Me
 
-<h3 align="center">
-  🚀 Frontend & Fullstack (MERN) Developer <br/>
-  💡 Passionate About Clean Code, UI & Modern Web Technologies
-</h3>
+I am a **Computer Science student at Debre Birhan University** and a **passionate Full Stack (MERN) Developer** with a strong interest in **backend technologies and system design**.
+
+I enjoy building **modern, scalable, and user-friendly web applications**, experimenting with new tools, and turning ideas into real-world solutions. My development approach focuses on **clean architecture, performance, and maintainable code**.
+
+Beyond coding, I value **continuous learning, collaboration, and problem-solving**. I’m always eager to work with like-minded developers, contribute to meaningful projects, and grow both technically and professionally.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🚀 Current Activities
 
-<p align="center">
+- Exploring **advanced features of Next.js** for production-ready applications  
+- Learning **backend optimization and API design patterns** using Node.js  
+- Improving **UI/UX skills** with Tailwind CSS and Framer Motion  
+- Strengthening **data handling and application scalability** in full-stack projects  
 
-<img src="https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+---
 
-<br/>
+## 🛠️ Skills & Technologies
 
-<img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+### 🧩 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
-<br/>
+### 🎨 Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/TailwindCSS-85%25-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github"/>
+### ⚙️ Backend Technologies
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+</p>
 
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🧰 Version Control & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Main GitHub Stats (fast, reliable alternative) -->
-  <img src="https://readme-stats-fast.vercel.app/api?username=biruk2116&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-
-  <!-- Top Languages -->
-  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak (current + longest) -->
-  <img src="https://streak-stats.demolab.com/?user=biruk2116&theme=tokyonight" alt="GitHub Streak Stats" />
-
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biruk2116&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=biruk2116&theme=tokyonight&row=1&column=6" width="48%"/>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:brukbelay61@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+**📍 Location:** Debre Birhan, Ethiopia  
+**💼 LinkedIn:** Biruk Belay  
+**📧 Email:** brukbelay61@gmail.com  
+**📧 Email:** birukbelay528@gmail.com  
+
+<p>
+  <a href="https://linkedin.com/in/birukbelay">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://facebook.com/biruk belay">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/bu_ye21">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/channel/Buratechtube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://github.com/biruk2116">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/birukbelay">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://t.me/">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/bu_ye21">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/biruk belay">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## ✨ Quote I Believe In
 
-> *"Learning never exhausts the mind — it empowers it."*
+> *“Learning never exhausts the mind — it empowers it.”*
 
 ---
 
