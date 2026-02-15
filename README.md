@@ -11,18 +11,20 @@
 
 <h3 align="center">Frontend & Fullstack (MERN) Developer | Passionate About Clean Code & Modern Web</h3>
 
+---
+
 ## 🛠️ Skills
 
 <p align="center">
-  <!-- Animated Skill Bars using SVG badges -->
+  <!-- Skill Badges -->
   <img src="https://img.shields.io/badge/HTML-95%25-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-90%25-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-85%25-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
-
 
 ---
 
