@@ -92,14 +92,15 @@
 ---
 
 ## 📊 GitHub Performance (Real-Time)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Performance" alt="Biruk's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Performance" height="190" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" height="190" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=biruk2116&theme=tokyonight&hide_border=true&stroke=00f7ff&ring=00f7ff&fire=00f7ff" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com?user=biruk2116&theme=tokyonight&hide_border=true&stroke=00f7ff&ring=00f7ff&fire=00f7ff" height="150" alt="GitHub Streak" />
 </p>
 
 
