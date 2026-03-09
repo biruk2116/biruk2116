@@ -84,17 +84,22 @@
 <p align="center">
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="https://instagram.com/bu_ye21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" /></a>
-<a href="https://t.me/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" height="25" /></a>
-<a href="https://facebook.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
+<a href="https://t.me/MYMiL21" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" height="25" /></a>
+<a href="https://facebook.com/bu-ye21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
 </p>
 
 
 ---
 
-## 📊 GitHub Status & Connect
+## 📊 GitHub Performance (Real-Time)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=My+GitHub+Grade&rank_icon=github" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biruk2116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Performance" alt="Biruk's GitHub Stats" height="200" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biruk2116&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=biruk2116&theme=tokyonight&hide_border=true&stroke=00f7ff&ring=00f7ff&fire=00f7ff" alt="GitHub Streak" height="170" />
 </p>
 
 
