@@ -85,7 +85,7 @@
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="https://instagram.com/bu_ye21" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" /></a>
 <a href="https://t.me/MYMiL21" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" height="25" /></a>
-<a href="https://facebook.com/bu-ye21" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
+<a href="https://facebook.com/profile.php?id=61563298809300" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
 </p>
 
 
