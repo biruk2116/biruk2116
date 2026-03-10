@@ -92,12 +92,6 @@
 ---
 ## 📊 GitHub Performance (Real-Time)
 
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=61563298809300&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
 ---
 
 <p align="center">
