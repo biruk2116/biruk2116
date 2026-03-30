@@ -88,7 +88,9 @@
 <a href="https://facebook.com/profile.php?id=61563298809300" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" /></a>
 </p>
 
+## 📊 GitHub Grade
 
+![GitHub Grade](https://img.shields.io/badge/Grade-A+-brightgreen?style=for-the-badge&logo=github)
 ---
 ## 📊 GitHub Performance (Real-Time)
 
